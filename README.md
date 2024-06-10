@@ -160,8 +160,8 @@ ___
 |------------------|--------------|
 | **Gerente de Projeto**: Responsável pela coordenação geral, assegurando a conclusão das fases no prazo e dentro do orçamento, além de mediar a comunicação entre as equipes. |  Gabriel Batista  |
 | **Equipe de Desenvolvimento**: **Desenvolvedores de Backend**: Construção e manutenção do servidor, banco de dados e APIs em nuvem. **Desenvolvedores de Frontend**: Criação da interface de usuário responsiva e intuitiva. **Especialistas em Integração**: Garantem a compatibilidade do sistema com padrões de saúde como HL7 e DICOM. | Luanny Victoria, Fran Robson, Kaic Tavares |
-| Equipe de Design: Designers de UX/UI: Criam interfaces que priorizam a experiência do usuário. Especialistas em Acessibilidade: Asseguram que o aplicativo atenda às diretrizes de acessibilidade digital (WCAG). | Rebeca Isabelly, Kaic Tavares |
-| Equipe de Testes: Testadores de Qualidade: Realizam testes de funcionalidade, segurança e desempenho para identificar e corrigir problemas. | Gabriel Batista, Luanny Victoria, Fran Robson |
+| **Equipe de Design**: Designers de UX/UI: Criam interfaces que priorizam a experiência do usuário. Especialistas em Acessibilidade: Asseguram que o aplicativo atenda às diretrizes de acessibilidade digital (WCAG). | Rebeca Isabelly, Kaic Tavares |
+| **Equipe de Testes**: Testadores de Qualidade: Realizam testes de funcionalidade, segurança e desempenho para identificar e corrigir problemas. | Gabriel Batista, Luanny Victoria, Fran Robson |
 
 
 ### 3.3 Fases, Atividades e Cronograma
