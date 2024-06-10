@@ -1,7 +1,7 @@
 # PLANO DE TRABALHO
 ___
 
-| Nome do Projeto:|                   |
+| Nome do Projeto:|  MediPortal App   |
 |-----------------|-------------------|
 | Versão:         | 1.0               |
 | Status:         |Em andamento       |
@@ -16,8 +16,11 @@ ___
 |1.0   |Elaboração do Plano de Trabalho| LuannyVictoria | 31/05 |
 |      |           |       |      |
 |      |           |       |      |
+___
 
 ## ÍNDICE
+
+___
 
 ## 1. INTRODUÇÃO
 
@@ -30,7 +33,7 @@ ___
  Simultaneamente, o aplicativo fornecerá aos médicos ferramentas avançadas para
  gerenciar seus horários e o histórico de consultas dos pacientes.
  
- ### 1.1 Objetivo
+ ### 1.1. Objetivo
    
  Desenvolver um aplicativo para telemedicina que permite aos pacientes marcar consultas
  médicas online, enviar exames, ver seus prontuários, e acompanhar a fila de atendimento,
@@ -40,7 +43,7 @@ ___
  prestados e geridos, proporcionando conveniência e eficiência tanto para pacientes quanto
  para médicos.
  
- ### 1.2 Motivação, Justificativa e Oportunidade
+ ### 1.2. Motivação, Justificativa e Oportunidade
  
  A motivação por trás deste projeto é a crescente demanda por soluções de saúde mais
  acessíveis e eficientes, especialmente em um contexto onde a tecnologia digital
@@ -73,21 +76,21 @@ ___
  ___
  ## 2.INFORMAÇÕES GERAIS
  
- ### 2.1 Objetivo
+ ### 2.1. Objetivo
  
  O objetivo principal deste projeto é desenvolver um aplicativo de telemedicina que ofereça
  aos pacientes a conveniência de marcar consultas médicas online, enviar exames, acessar
  prontuários médicos, visualizar a fila de atendimento, enquanto também permite aos
  médicos gerenciar seus horários e o histórico de consultas dos pacientes.
  
- ### 2.2 Escopo Geral
+ ### 2.2. Escopo Geral
  
  O escopo geral deste projeto abrange a criação de um aplicativo de telemedicina que
  possibilitará consultas médicas remotas, o envio de exames, o acesso a prontuários
  médicos e a gestão de horários para pacientes e médicos, proporcionando uma solução
  abrangente e integrada para as necessidades de saúde.
  
- #### 2.2.1 Escopo Específico
+ #### 2.2.1. Escopo Específico
  
  - Marcação de consultas médicas online;
  - Envio de exames para análise;
@@ -95,7 +98,7 @@ ___
  - Gestão de filas de atendimento;
  - Gerenciamento de horários para médicos.
  
- #### 2.2.2 Escopo Negativo
+ #### 2.2.2. Escopo Negativo
  
  - Não inclui diagnóstico médico automático;
  - O aplicativo não substituirá a avaliação médica presencial, apenas facilitará o acesso aos serviços de saúde;
@@ -107,14 +110,14 @@ acompanhamento.
 
 ### 2.3. Ambiente de Desenvolvimento
 
-|  Ferramentas e Tecnologias  |                                |
+|                             | Ferramentas e Tecnologias      |
 |-----------------------------|--------------------------------|
 | Tipo                        | Modelo e Especificações        |
-| Plataforma de Desenvolvimento Colaborativo / Sistema de Controle de Versão| GitHub.com; GitHub é uma plataforma baseada em nuvem que utiliza o sistema de controle de versão Git. Permite o gerenciamento de repositórios de código, colaboração em equipe, revisão de código, integração contínua (CI), deploy contínuo (CD) e gestão de projetos. Fornece ferramentas como Issues, Pull Requests, Actions, e GitHub Pages. |                               
+| GitHub (repositório remoto) | Modelo: Plataforma de hospedagem de código-fonte baseada em Git. Especificações: Oferece controle de versão, rastreamento de problemas e colaboração para projetos de software. |                               
 |                              |                                |
 
 
-### 2.4 Características Inovadoras do Projeto:
+### 2.4. Características Inovadoras do Projeto:
 
 - Integração com Inteligência Artificial para Diagnósticos Preliminares: Utilização de IA para análise de sintomas e recomendação de cuidados iniciais;
 - Monitoramento Remoto em Tempo Real: Ferramentas para acompanhamento contínuo de sinais vitais dos pacientes, com alertas automáticos para os médicos;
@@ -125,18 +128,89 @@ acompanhamento.
 status na fila de atendimento, permitindo aos pacientes acompanhar a previsão de tempo de
 espera.
 
-### 2.5 Resultados Esperados
+### 2.5. Resultados Esperados
 
 Os resultados esperados deste projeto incluem a redução do tempo de espera para consultas
 médicas, o aumento da eficiência na gestão de horários dos médicos e a melhoria geral na
 acessibilidade aos serviços de saúde, proporcionando uma experiência mais conveniente e
 eficaz para todos os envolvidos.
-
+___
 ## 3. METODOLOGIA DE PROJETO
 
-### 3.1 Estrutura do Projeto
+### 3.1. Estrutura do Projeto
 
 - Gerente de Projeto;
 - Equipe de Desenvolvimento;
 - Equipe de Design;
 - Equipe de Testes.
+
+### 3.2 Equipe de Projeto: Papéis e Responsabilidades dos Integrantes
+
+| Responsabilidade | Profissional |
+|------------------|--------------|
+| **Gerente de Projeto**: Responsável pela coordenação geral, assegurando a conclusão das fases no prazo e dentro do orçamento, além de mediar a comunicação entre as equipes. |  Gabriel Batista  |
+| **Equipe de Desenvolvimento**: **Desenvolvedores de Backend**: Construção e manutenção do servidor, banco de dados e APIs em nuvem. **Desenvolvedores de Frontend**: Criação da interface de usuário responsiva e intuitiva. **Especialistas em Integração**: Garantem a compatibilidade do sistema com padrões de saúde como HL7 e DICOM. | Luanny Victoria, Fran Robson, Kaic Tavares |
+| Equipe de Design: Designers de UX/UI: Criam interfaces que priorizam a experiência do usuário. Especialistas em Acessibilidade: Asseguram que o aplicativo atenda às diretrizes de acessibilidade digital (WCAG). | Rebeca Isabelly, Kaic Tavares |
+| Equipe de Testes: Testadores de Qualidade: Realizam testes de funcionalidade, segurança e desempenho para identificar e corrigir problemas. | Gabriel Batista, Luanny Victoria, Fran Robson |
+
+
+### 3.3 Fases, Atividades e Cronograma
+
+-	Fase I: Planejamento e Análise - Janeiro/Fevereiro:
+    - Definição dos requisitos do projeto em conjunto com stakeholders;
+    - Elaboração do plano de projeto, incluindo escopo, recursos e cronograma inicial.
+      
+- Fase II: Design e Arquitetura - Março/Abril:
+    - Desenvolvimento da arquitetura do sistema, incluindo estrutura de banco de dados e integrações necessárias;
+    - Criação de wireframes e protótipos de interface de usuário.
+      
+-	Fase III: Desenvolvimento - Maio/Julho:
+   - Implementação das funcionalidades do aplicativo, tanto no backend quanto no frontend;
+   - Testes unitários e integração contínua para garantir a qualidade do código.
+
+- Fase IV: Testes e Ajustes - Agosto:
+   - Realização de testes de usabilidade e de desempenho;
+   - Coleta de feedback dos usuários beta e ajustes com base nos resultados;
+     
+-	Fase V: Lançamento e Implantação - Setembro:
+   - Preparação para o lançamento oficial do aplicativo;
+   - Implantação nos servidores de produção e distribuição nas lojas de aplicativos.
+     
+-	Fase VI: Avaliação e Manutenção - Outubro/Em Diante:
+   - Monitoramento do desempenho do aplicativo após o lançamento;
+   - Atualizações regulares com base no feedback dos usuários e evolução das necessidades do mercado.
+
+### 3.4. Entregas de cada Fase
+
+|  Fase  |  Mês  |  Entregável  |
+|--------|-------|--------------|
+| I.	Especificação |       |              |
+| II.	Inspeção     |       |              |
+| III.	Projeto e Arquitetura |       |              |
+| IV.	Prototipagem e Refinamento |       |          |
+| V.	Encerramento  |       |              |
+
+
+4. REFERÊNCIAS
+   
+Conselho Federal de Medicina (CFM)BRASIL. Conselho Federal de Medicina. Portal do CFM. Disponível: [aqui](<https://portal.cfm.org.br/>) . Acesso em: 03 jun. 2024.
+
+Lei Geral de Proteção de Dados (LGPD)BRASIL. Lei nº 13.709, de 14 de agosto de 2018. Lei Geral de Proteção de Dados Pessoais. Disponível: [aqui](<https://www.gov.br/lgpd.>) Acesso em: 03 jun. 2024.
+
+ISO 27001INTERNATIONAL ORGANIZATION FOR STANDARDIZATION. ISO/IEC 27001:2013 - Information technology - Security techniques - Information security management systems - Requirements. Disponível: [aqui](<https://www.iso.org/isoiec-27001-information-security.html.>)  Acesso em: 03 jun. 2024.
+
+Health Level Seven International (HL7)HL7 INTERNATIONAL. Health Level Seven International. Disponível: [aqui](<https://www.hl7.org/.>) Acesso em: 03 jun. 2024.
+
+Digital Imaging and Communications in Medicine (DICOM)DICOM STANDARDS COMMITTEE. DICOM Standard. Disponível: [aqui](<https://www.dicomstandard.org/.>) Acesso em: 03 jun. 2024.
+
+Web Content Accessibility Guidelines (WCAG)WORLD WIDE WEB CONSORTIUM (W3C). Web Content Accessibility Guidelines (WCAG) Overview. Disponível: [aqui](<https://www.w3.org/WAI/standards-guidelines/wcag/.>)  Acesso em: 03 jun. 2024.
+
+GitHubGITHUB. GitHub. Disponível: [aqui](<https://github.com/.>) Acesso em: 05 jun. 2024.
+
+VS CodeMICROSOFT. Visual Studio Code. Disponível: [aqui](<https://code.visualstudio.com/.>)  Acesso em: 05 jun. 2024.
+
+Android StudioANDROID DEVELOPERS. Android Studio. Disponível: [aqui](<https://developer.android.com/studio.>) Acesso em: 05 jun. 2024.
+
+CanvaCANVA. Canva. Disponível: [aqui](<https://www.canva.com/.>)  Acesso em: 05 jun. 2024.
+
+FigmaFIGMA. Figma. Disponível em: [aqui](<https://www.figma.com/.>)  Acesso em: 05 jun. 2024.
