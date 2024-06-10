@@ -7,7 +7,8 @@ ___
 | Status:         |Em andamento       |
 |Executor Principal:| Gabriel Batista |
 |Coordenador do Projeto:| Andrey Rodrigues|
- ___
+
+
 ## HISTÓRICO DE VERSÕES
 
 |Versão| Descrição | Autor | Data |
@@ -52,19 +53,19 @@ ___
  
  ### 1.3. Caracterização do Projeto:
  
-### 1.3.1. Classe
+#### 1.3.1. Classe
 
  |  Classe  |  Detalhamento  |
  |----------|----------------|
  | Aplicativo Móvel | Aplicativo desenvolvido para plataformas iOS e Android,com funcionalidades de marcação de consultas,envio de exames,visualização de prontuários e acompanhamento da fila de atendimento.|
  
- ### 1.3.2. Enquadrabilidade
+ #### 1.3.2. Enquadrabilidade
  
  | Enquadrabilidade | Detalhamento |
  |------------------|--------------|
  |Aplicativo de Telemedicina| O aplicativo será desenvolvido em conformidade com as regulamentações do Conselho Federal de Medicina(CFM), a Lei Geral de Proteção de Dados(LGPD), normas internacionais de segurançada informação (ISO27001), padrões técnicos de saúde (HL7eDICOM), e diretrizes de acessibilidade digital (WCAG), garantindo práticas médicas legítimas, segurança e privacidade dos dados,interoperabilidade e acessibilidade para todos os usuários.|
 
- ### 1.3.3. Tipo
+ #### 1.3.3. Tipo
  
  | Tipo |     | Detalhamento |
  |------|-----|--------------|
@@ -86,7 +87,7 @@ ___
  médicos e a gestão de horários para pacientes e médicos, proporcionando uma solução
  abrangente e integrada para as necessidades de saúde.
  
- ### 2.2.1 Escopo Específico
+ #### 2.2.1 Escopo Específico
  
  - Marcação de consultas médicas online;
  - Envio de exames para análise;
@@ -94,7 +95,7 @@ ___
  - Gestão de filas de atendimento;
  - Gerenciamento de horários para médicos.
  
- ### 2.2.2 Escopo Negativo
+ #### 2.2.2 Escopo Negativo
  
  - Não inclui diagnóstico médico automático;
  - O aplicativo não substituirá a avaliação médica presencial, apenas facilitará o acesso aos serviços de saúde;
@@ -123,3 +124,19 @@ acompanhamento.
 - Fila de Atendimento Dinâmica e Transparente: Visualização em tempo real do
 status na fila de atendimento, permitindo aos pacientes acompanhar a previsão de tempo de
 espera.
+
+### 2.5 Resultados Esperados
+
+Os resultados esperados deste projeto incluem a redução do tempo de espera para consultas
+médicas, o aumento da eficiência na gestão de horários dos médicos e a melhoria geral na
+acessibilidade aos serviços de saúde, proporcionando uma experiência mais conveniente e
+eficaz para todos os envolvidos.
+
+## 3. METODOLOGIA DE PROJETO
+
+### 3.1 Estrutura do Projeto
+
+- Gerente de Projeto;
+- Equipe de Desenvolvimento;
+- Equipe de Design;
+- Equipe de Testes.
