@@ -13,9 +13,15 @@ ___
 
 |Versão| Descrição | Autor | Data |
 |------|-----------|-------|------|
-|1.0   |Elaboração do Plano de Trabalho| LuannyVictoria | 31/05 |
-|      |           |       |      |
-|      |           |       |      |
+|1.0   |Elaboração do Plano de Trabalho| Gabriel, Kaic, Luanny, Fran, Rebeca  | 26/05 |
+|1.1   |Introdução| Gabriel e Luanny | 26/05 |
+|1.2   |Informações Gerais| Luanny, Rebeca e Kaic | 27/05 |
+|1.3   |Escopo Geral| Fran Robson | 30/05 |
+|1.4   |Escopo Específico e Escopo Negativo| Rebeca e Kaic | 01/06 |
+|1.5   |Ambiente de Desenvolvimento| Fran Robson e Gabriel | 04/06 |
+|1.6   |Características Inovadoras| Gabriel, Kaic, Luanny, Fran e Rebeca | 04/06 |
+|1.7   |Implementação de GitHub| Fran Robson | 09/06 |
+|1.8   |Revisão Geral| Gabriel, Luanny, Fran, Kaic e Rebeca | 10/06 |
 ___
 
 ## ÍNDICE
@@ -114,7 +120,11 @@ acompanhamento.
 |-----------------------------|--------------------------------|
 | Tipo                        | Modelo e Especificações        |
 | GitHub (repositório remoto) | Modelo: Plataforma de hospedagem de código-fonte baseada em Git. Especificações: Oferece controle de versão, rastreamento de problemas e colaboração para projetos de software. |                               
-|                              |                                |
+|VS Code(linguagens de programação)|Modelo: Editor de código leve e altamente personalizável. Especificações: Suporta diversas linguagens de programação, oferece recursos avançados como depuração e integração com sistemas de controle de versão.|
+| Android Studio(desenvolver para a plataforma Android)|Modelo: IDE oficial para desenvolvimento de aplicativos Android. Especificações: Permite criar, depurar e testar apps para Android, com suporte para Java e Kotlin. |
+| Canva (logo) |Modelo: Ferramenta online de design gráfico. Especificações: Facilita a criação de logotipos e outros materiais visuais, oferecendo modelos e elementos gráficos variados. |
+| Figma (prototipagem) |Modelo: Ferramenta de design de interface do usuário baseada na nuvem. Especificações: Permite criar protótipos interativos e designs responsivos, com recursos de colaboração em tempo real e integração com outras ferramentas de design e desenvolvimento. |
+
 
 
 ### 2.4. Características Inovadoras do Projeto:
@@ -156,35 +166,33 @@ ___
 
 ### 3.3 Fases, Atividades e Cronograma
 
--	Fase I: Planejamento e Análise - Janeiro/Fevereiro:
-    - Definição dos requisitos do projeto em conjunto com stakeholders;
-    - Elaboração do plano de projeto, incluindo escopo, recursos e cronograma inicial.
+-	Fase I: Especificação:
+    - Requisitos do projeto: Definir funcionalidades (agendamento, envio de exames, prontuário, fila de atendimento, gerenciamento de horários).
+    - Planejamento inicial: Estabelecer cronograma, recursos e equipe.
       
-- Fase II: Design e Arquitetura - Março/Abril:
-    - Desenvolvimento da arquitetura do sistema, incluindo estrutura de banco de dados e integrações necessárias;
-    - Criação de wireframes e protótipos de interface de usuário.
+- Fase II: Inspeção:
+    - Revisão dos artefatos: Avaliar e validar requisitos e planejamento inicial.
       
--	Fase III: Desenvolvimento - Maio/Julho:
-   - Implementação das funcionalidades do aplicativo, tanto no backend quanto no frontend;
-   - Testes unitários e integração contínua para garantir a qualidade do código.
+-	Fase III: Projeto e Arquitetura:
+    - Design da arquitetura do sistema: Definir estrutura do sistema e integração.
+    - Criação de wireframes: Elaborar wireframes para as principais telas do aplicativo.
 
-- Fase IV: Testes e Ajustes - Agosto:
-   - Realização de testes de usabilidade e de desempenho;
-   - Coleta de feedback dos usuários beta e ajustes com base nos resultados;
+- Fase IV: Prototipagem e Refinamento:
+   - Desenvolvimento do protótipo inicial: Criar protótipo funcional com as principais funcionalidades.
+   - Feedback e ajustes: Coletar feedback de usuários e ajustar o protótipo.
      
--	Fase V: Lançamento e Implantação - Setembro:
-   - Preparação para o lançamento oficial do aplicativo;
-   - Implantação nos servidores de produção e distribuição nas lojas de aplicativos.
+-	Fase V: Prototipagem e Refinamento:
+    - Testes de usabilidade: Realizar testes com usuários para identificar melhorias
+    - Implantação nos servidores de produção e distribuição nas lojas de aplicativos.
      
--	Fase VI: Avaliação e Manutenção - Outubro/Em Diante:
-   - Monitoramento do desempenho do aplicativo após o lançamento;
-   - Atualizações regulares com base no feedback dos usuários e evolução das necessidades do mercado.
+-	Fase VI: Encerramento:
+    - Implementação final: Finalizar ajustes e lançar a versão completa do aplicativo.
 
 ### 3.4. Entregas de cada Fase
 
 |  Fase  |  Mês  |  Entregável  |
 |--------|-------|--------------|
-| I.	Especificação |       |              |
+| I.	Especificação | Junho | Especificação de Requisitos |
 | II.	Inspeção     |       |              |
 | III.	Projeto e Arquitetura |       |              |
 | IV.	Prototipagem e Refinamento |       |          |
