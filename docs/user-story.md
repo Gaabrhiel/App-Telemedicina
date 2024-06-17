@@ -1,6 +1,6 @@
 # Requisitos
 
-## Histórias de Usuário para o App de Telemedicina
+## Histórias de Usuário
 
 **Marcação de Consultas Online**
    - **H1**: Como paciente, eu quero marcar consultas online para evitar deslocamentos desnecessários.
@@ -26,23 +26,23 @@
 **Realização de Teleconsultas**
    - **H8**: Como paciente, eu quero fazer consultas por vídeo para evitar deslocamentos.
 
-Receitas Médicas Digitais
-   - História de Usuário: Como paciente, eu quero receber receitas médicas digitais para facilitar a compra de medicamentos.
+**Receitas Médicas Digitais**
+   - **H9**: Como paciente, eu quero receber receitas médicas digitais para facilitar a compra de medicamentos.
 
-Notificações e Lembretes de Consulta
-   - História de Usuário: Como paciente, eu quero receber lembretes de minhas consultas para não esquecer meus compromissos.
+**Notificações e Lembretes de Consulta**
+   - **H10**: Como paciente, eu quero receber lembretes de minhas consultas para não esquecer meus compromissos.
 
-Pagamento de Consultas Online
-   - História de Usuário: Como paciente, eu quero pagar minhas consultas online para maior conveniência.
+**Pagamento de Consultas Online**
+   - **H11**: Como paciente, eu quero pagar minhas consultas online para maior conveniência.
 
-Feedback de Atendimento
-   - História de Usuário: Como paciente, eu quero deixar feedback sobre meu atendimento para ajudar a melhorar o serviço.
+**Feedback de Atendimento**
+   - **H12**: Como paciente, eu quero deixar feedback sobre meu atendimento para ajudar a melhorar o serviço.
 
- Histórico de Pagamentos
-   - História de Usuário: Como paciente, eu quero visualizar meu histórico de pagamentos para controle financeiro.
+ **Histórico de Pagamentos**
+   - **H13**: Como paciente, eu quero visualizar meu histórico de pagamentos para controle financeiro.
 
-Gerenciamento de Perfil do Paciente
-   - História de Usuário: Como paciente, eu quero gerenciar meu perfil e informações de contato para mantê-las atualizadas.
+**Gerenciamento de Perfil do Paciente**
+   - **H14**: Como paciente, eu quero gerenciar meu perfil e informações de contato para mantê-las atualizadas.
 
-Acesso a Informações de Saúde Pública
-   - História de Usuário: Como paciente, eu quero acessar informações de saúde pública relevantes para ficar bem informado.
+**Acesso a Informações de Saúde Pública**
+   - **H15**: Como paciente, eu quero acessar informações de saúde pública relevantes para ficar bem informado.
