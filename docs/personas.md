@@ -38,30 +38,30 @@ Esse documento apresenta as personas do trabalho.
 **Adalberto Braga, 48 anos.**
 
 ### Quem ?
-- Q1 Ocupação: Clínico geral (Médico) e influencer; 
-- Q2 Nível de escolaridade: Doutorado completo, pós-graduação completa; 
-- Q3 Como ele se descreve: Calvo, cabelos brancos, baixo, gordo;
-- Q4 Quais os medos/preocupações/frustrações dele ? Por quê ?: Medo de perder a família, por questões pessoais;
+- **Q1** Ocupação: Clínico geral (Médico) e influencer; 
+- **Q2** Nível de escolaridade: Doutorado completo, pós-graduação completa; 
+- **Q3** Como ele se descreve: Calvo, cabelos brancos, baixo, gordo;
+- **Q4** Quais os medos/preocupações/frustrações dele ? Por quê ?: Medo de perder a família, por questões pessoais;
 
 ### Contexto
-- C1 Quais tarefas da sua rotina ele realiza utilizando aplicações (web, mobile, desktop)?: Utiliza TikTok e Instagram para criar conteúdo sobre medicina;
+- **C1** Quais tarefas da sua rotina ele realiza utilizando aplicações (web, mobile, desktop)?: Utiliza TikTok e Instagram para criar conteúdo sobre medicina;
 
 ### Problemas
-- P1: Problemas que podem ser resolvidos pelo app a ser projetado: Alta demanda, falta de organização de documentos de pacientes e resultados de exames;
-- P2: Como a aplicação pode ajudar a resolver os problemas: com o aplicativo poderia facilitar o atendimento com os pacientes, desde o momento da primeira consulta, até o momento de uma possível cirurgia por exemplo;
+- **P1**: Problemas que podem ser resolvidos pelo app a ser projetado: Alta demanda, falta de organização de documentos de pacientes e resultados de exames;
+- **P2**: Como a aplicação pode ajudar a resolver os problemas: com o aplicativo poderia facilitar o atendimento com os pacientes, desde o momento da primeira consulta, até o momento de uma possível cirurgia por exemplo;
 
 ### Experiências com tecnologia
-- E1: Como um influencer gosto quando meus conteúdos ajuda as pessoas a tirar suas dúvidas;
-- E2: A parte ruim são quando as pessoas se apropriam dos meus conteúdo para espalhar informações falsas;
-- E3: computadores e smartphones;
-- E4: lendo manuais e pedindo ajuda de pessoas;
-- E5: passo a passo; E6: ouvindo áudios, imagens e lendo textos; 
-- E7: prefere compartilhamentos de acontecimentos;
+- **E1**: Como um influencer gosto quando meus conteúdos ajudam as pessoas a tirar suas dúvidas;
+- **E2**: A parte ruim são quando as pessoas se apropriam dos meus conteúdo para espalhar informações falsas;
+- **E3**: computadores e smartphones;
+- **E4**: lendo manuais e pedindo ajuda de pessoas;
+- **E5**: passo a passo; E6: ouvindo áudios, imagens e lendo textos; 
+- **E7**: prefere compartilhamentos de acontecimentos;
 
 ### Soluções Existentes
-- S1: Existe, mas no meu conhecimento, não há na região; 
-- S2: Dá apoio os clientes independentes da hora e a organização da folha de atendimento dos outros pacientes; 
-- S3: confiança do sistema
+- **S1**: Existe, mas no meu conhecimento, não há na região; 
+- **S2**: Dá apoio os clientes independentes da hora e a organização da folha de atendimento dos outros pacientes; 
+- **S3**: confiança do sistema
 
 
 ## Persona 3
@@ -69,62 +69,67 @@ Esse documento apresenta as personas do trabalho.
 **Nome: Carlos Oliveira, 56 anos**
 
 ### Quem ?
-- Q1 Ocupação: Professor universitário de biologia.
+- **Q1** Ocupação: Professor universitário de biologia.
 
-- Q2 Nível de escolaridade: Possui doutorado em biologia molecular e celular.
+- **Q2** Nível de escolaridade: Possui doutorado em biologia molecular e celular.
 
-- Q3 Como ele se descreve: Um homem alto, com cabelo castanho, olhos pretos. Ele valoriza a interação com seus alunos e busca sempre 
+- **Q3** Como ele se descreve: Um homem alto, com cabelo castanho, olhos pretos. Ele valoriza a interação com seus alunos e busca sempre 
   atualizar-se nas novas metodologias educacionais.
 
-- Q4 Quais os medos/preocupações/frustrações dele? Por quê?: Ele tem preocupações com a adaptação às novas tecnologias na educação 
+- **Q4** Quais os medos/preocupações/frustrações dele? Por quê?: Ele tem preocupações com a adaptação às novas tecnologias na educação 
   especialmente plataformas complexas que podem dificultar o ensino remoto eficaz. 
 
 ### Contexto
 
-- C1 Quais tarefas da sua rotina ele realiza utilizando aplicações (web, mobile, desktop)?: Utiliza aplicativos de edição de texto e apresentações (como Microsoft Word e PowerPoint) para preparar materiais didáticos; Utiliza e-mail, plataformas de mensagens instantâneas (como WhatsApp) e plataformas de ensino virtual (como Moodle ou Google Classroom) para se comunicar com os alunos, enviar tarefas e receber trabalhos.
+- **C1** Quais tarefas da sua rotina ele realiza utilizando aplicações (web, mobile, desktop)?: Utiliza aplicativos de edição de texto e apresentações (como Microsoft Word e PowerPoint) para preparar materiais didáticos; Utiliza e-mail, plataformas de mensagens instantâneas (como WhatsApp) e plataformas de ensino virtual (como Moodle ou Google Classroom) para se comunicar com os alunos, enviar tarefas e receber trabalhos.
 
 ### Problemas
 
-- P1 Quais problemas ele enfrenta na sua rotina que podem ser resolvidos pela aplicação a ser projetada?: O carlos tem muitas tarefas, por isso não tem muito tempo para ir em uma ubs ou hospital marcar uma consulta, deixando um pouco a saúde de lado. Ele tem medo de confiar seus dados em um aplicativo. 
+- **P1** Quais problemas ele enfrenta na sua rotina que podem ser resolvidos pela aplicação a ser projetada?: O carlos tem muitas tarefas, por isso não tem muito tempo para ir em uma ubs ou hospital marcar uma consulta, deixando um pouco a saúde de lado. Ele tem medo de confiar seus dados em um aplicativo. 
 
-- P2 O que a aplicação a ser projetada pode ter para ajudar ele a resolver estes problemas?: Com o aplicativo ele poderia marcar consultas, e marcar horário para fazer exames, e com uma plataforma segura poderia confiar seus dados a terceiros.
+- **P2** O que a aplicação a ser projetada pode ter para ajudar ele a resolver estes problemas?: Com o aplicativo ele poderia marcar consultas, e marcar horário para fazer exames, e com uma plataforma segura poderia confiar seus dados a terceiros.
 
-Experiências com tecnologia:
+### Experiências com tecnologia
 
-E1. Quais partes das aplicações citadas em C1 ele gosta? Por quê?
+- **E1** Quais partes das aplicações citadas em C1 ele gosta? Por quê?
 
 Ele aprecia a facilidade de criar e editar materiais didáticos utilizando softwares como Microsoft Word e PowerPoint, pois permitem uma personalização eficaz das aulas.
 
-E2. Quais partes dessas aplicações ele não gosta? Por quê?
+- **E2** Quais partes dessas aplicações ele não gosta? Por quê?
 
 Ele não gosta da dependência excessiva de plataformas diferentes para cada função (preparação de aulas, comunicação, avaliação), pois isso pode ser confuso e demandar muito tempo para gerenciar.
 
-E3. Em quais dispositivos ele utiliza essas aplicações?
+- **E3** Em quais dispositivos ele utiliza essas aplicações?
 
 Utiliza principalmente um laptop ou desktop para realizar suas atividades acadêmicas, preferindo dispositivos maiores para maior conforto e eficiência na visualização.
 
-E4. Como ele aprende a usar uma aplicação?
+- **E4** Como ele aprende a usar uma aplicação?
 
 Ele aprende melhor através de tutoriais passo a passo e experimentação prática. Gosta de explorar as funcionalidades das aplicações para entender seu potencial completo.
 
-E5. Ele gosta de fazer as coisas passo a passo ou prefere atalhos?
+- **E5** Ele gosta de fazer as coisas passo a passo ou prefere atalhos?
 
 Prefere fazer as coisas passo a passo, pois acredita que isso reduz a chance de erros e facilita a compreensão das etapas necessárias.
 
-E6. Ele lembra melhor das coisas vendo imagens/representações gráficas, lendo texto ou ouvindo áudio?
+- **E6** Ele lembra melhor das coisas vendo imagens/representações gráficas, lendo texto ou ouvindo áudio?
 
 Ele lembra melhor através de imagens e representações gráficas, pois visualizações visuais ajudam na compreensão dos conceitos e na memorização de informações.
 
-E7. No mundo virtual ele gosta de interação social e compartilhamento de acontecimentos ou prefere se manter reservado?
+- **E7** No mundo virtual ele gosta de interação social e compartilhamento de acontecimentos ou prefere se manter reservado?
 
 Ele prefere se manter mais reservado no mundo virtual, utilizando as plataformas principalmente para fins educacionais e evitando interações sociais desnecessárias.
 
-Soluções Existentes:
+### Soluções Existentes
 
-S1. Existem outras tecnologias que resolvem os problemas citados? Quais?
+- **S1** Existem outras tecnologias que resolvem os problemas citados? Quais?
+
 Existem plataformas de telemedicina, como a Doctoralia, porém na região do carlos tem funcionamento.
-S2. Quais características positivas/essenciais dessas tecnologias?
+
+- **S2** Quais características positivas/essenciais dessas tecnologias?
+
 Permite marcar consultas com poucos cliques, economizando tempo.
-S3. Quais características negativas/dispensáveis dessas tecnologias?
+
+- **S3** Quais características negativas/dispensáveis dessas tecnologias?
+
 A segurança de dados pode ser uma preocupação, especialmente ao lidar com informações sensíveis.
 
