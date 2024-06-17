@@ -20,13 +20,33 @@ Esse documento apresenta as personas do trabalho.
 - **P2** Como a aplicação pode ajudar a resolver os problemas: facilitando o atendimento ágil no hospital, e gerenciando sua rotina de atendimento;
 
 ### Experiências com tecnologia
-- **E1** Instagram: vídeos educativos, X: informações, TikTok, Whatsapp: comunicação de ponta, classroom: acesso a conteúdos importantes para seu Estudo acadêmico, replay, roblox: Lazer; 
-- **E2** Instagram: notas e anúncios; Whatsapp: porque ele ficou verde e o novo modelo de status; TikTok: vícios em vídeos curtos; Roblox: distração;
-- **E3**: Notebooks e smartphones;
-- **E4**: Mexendo no aplicativo;
-- **E5**: Atalhos;
-- **E6**: Ouvindo áudios e imagens;
-- **E7**: Manter reservados.
+- **E1** Quais partes das aplicações citadas em C1 ele gosta? Por quê?
+
+Ela gosta dos vídeos educativos do Instagram, assim como as informações políticas do X, no Whatsapp a comunicação de ponta, no classroom o acesso a conteúdos importantes para seu estudo acadêmico e no jogo roblox o lazer necessário;
+
+- **E2** Quais partes dessas aplicações ele não gosta? Por quê?
+
+No Instagram as notas e anúncios; Whatsapp o seu novo design e o novo modelo de status; TikTok o possível vício em vídeos curtos e no Roblox a distração;
+
+- **E3** Em quais dispositivos ele utiliza essas aplicações?
+
+Notebooks e smartphones.
+
+- **E4** Como ele aprende a usar uma aplicação?
+
+Mexendo no aplicativo.
+
+- **E5** Ele gosta de fazer as coisas passo a passo ou prefere atalhos?
+
+Atalhos.
+
+- **E6** Ele lembra melhor das coisas vendo imagens/representações gráficas, lendo texto ou ouvindo áudio?
+
+Ouvindo áudios e imagens.
+
+- **E7** No mundo virtual ele gosta de interação social e compartilhamento de acontecimentos ou prefere se manter reservado?
+
+Prefere se manter reservado.
 
 ### Soluções Existentes
 - **S1**: Não no meu conhecimento; 
@@ -51,12 +71,33 @@ Esse documento apresenta as personas do trabalho.
 - **P2**: Como a aplicação pode ajudar a resolver os problemas: com o aplicativo poderia facilitar o atendimento com os pacientes, desde o momento da primeira consulta, até o momento de uma possível cirurgia por exemplo;
 
 ### Experiências com tecnologia
-- **E1**: Como um influencer gosto quando meus conteúdos ajudam as pessoas a tirar suas dúvidas;
-- **E2**: A parte ruim são quando as pessoas se apropriam dos meus conteúdo para espalhar informações falsas;
-- **E3**: computadores e smartphones;
-- **E4**: lendo manuais e pedindo ajuda de pessoas;
-- **E5**: passo a passo; E6: ouvindo áudios, imagens e lendo textos; 
-- **E7**: prefere compartilhamentos de acontecimentos;
+- **E1** Quais partes das aplicações citadas em C1 ele gosta? Por quê?
+
+Como um influencer gosto quando meus conteúdos ajudam as pessoas a tirar suas dúvidas;
+
+- **E2** Quais partes dessas aplicações ele não gosta? Por quê?
+
+A parte ruim são quando as pessoas se apropriam dos meus conteúdo para espalhar informações falsas;
+
+- **E3** Em quais dispositivos ele utiliza essas aplicações?
+
+Computadores e smartphones;
+
+- **E4**  Como ele aprende a usar uma aplicação?
+
+Lendo manuais e pedindo ajuda de pessoas;
+
+- **E5** Ele gosta de fazer as coisas passo a passo ou prefere atalhos?
+
+Passo a passo;
+
+- **E6** Ele lembra melhor das coisas vendo imagens/representações gráficas, lendo texto ou ouvindo áudio?
+
+Ouvindo áudios, imagens e lendo textos; 
+
+- **E7** No mundo virtual ele gosta de interação social e compartilhamento de acontecimentos ou prefere se manter reservado?
+
+Prefere compartilhar os acontecimentos;
 
 ### Soluções Existentes
 - **S1**: Existe, mas no meu conhecimento, não há na região; 
