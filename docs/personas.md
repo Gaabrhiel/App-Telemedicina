@@ -139,7 +139,7 @@ Esse documento apresenta as personas do trabalho.
 
 ## Persona 3
 
-**Nome: Carlos Oliveira, 56 anos**
+**Carlos Oliveira, 56 anos**
 
 ### Quem ?
 - **Q1** Ocupação: Professor universitário de biologia.
