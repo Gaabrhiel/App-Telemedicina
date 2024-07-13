@@ -7,10 +7,10 @@ Esse documento apresenta as personas do trabalho.
 **Ana da Silva Costa, 17 anos.**
 
 ### Quem ?
-- **Ocupação:** Estudante;
-- **Nível de escolaridade:** Superior incompleto;
-- **Como ele(a) se descreve:** Sedentária, baixa, quilombola;
-- **Quais os medos/preocupações/frustrações dele(a) ? Por quê ?:** Medo do futuro e supostos fracassos, por questões familiares.
+- **Q1 Ocupação:** Estudante;
+- **Q2 Nível de escolaridade:** Superior incompleto;
+- **Q3 Como ele(a) se descreve:** Sedentária, baixa, quilombola;
+- **Q4 Quais os medos/preocupações/frustrações dele(a) ? Por quê ?:** Medo do futuro e supostos fracassos, por questões familiares.
 
 ### Contexto
 - **C1** Quais tarefas da sua rotina ela realiza utilizando aplicações (web, mobile, desktop)?:
