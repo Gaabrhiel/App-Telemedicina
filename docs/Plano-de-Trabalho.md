@@ -192,11 +192,11 @@ ___
 
 |  Fase  |  Mês  |  Entregável  |
 |--------|-------|--------------|
-| I.	Especificação | Junho | Especificação de Requisitos  |
-| II.	Inspeção     | Julho | Avaliar e validar requisitos |
-| III.	Projeto e Arquitetura |       |              |
-| IV.	Prototipagem e Refinamento |       |          |
-| V.	Encerramento  |       |              |
+| I.	Especificação | Junho  | Especificação de Requisitos  |
+| II.	Inspeção     | Julho  | Avaliar e validar requisitos |
+| III.	Projeto e Arquitetura |        |              |
+| IV.	Prototipagem e Refinamento |        |          |
+| V.	Encerramento  |        |              |
 
 
 4. REFERÊNCIAS
