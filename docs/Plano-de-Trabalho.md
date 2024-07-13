@@ -66,7 +66,7 @@ ___
 
  |  Classe  |  Detalhamento  |
  |----------|----------------|
- | Aplicativo Móvel | Aplicativo desenvolvido para plataformas iOS e Android, com funcionalidades de marcação de consultas,envio de exames, visualização de prontuários e acompanhamento da fila de atendimento.|
+ | Aplicativo Móvel | Aplicativo desenvolvido para plataformas iOS e Android, com funcionalidades de marcação de consultas, envio de exames, visualização de prontuários e acompanhamento da fila de atendimento.|
  
  #### 1.3.2. Enquadrabilidade
  
