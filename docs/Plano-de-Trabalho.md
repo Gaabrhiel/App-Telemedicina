@@ -167,12 +167,9 @@ ___
 ### 3.3 Fases, Atividades e Cronograma
 
 -	Fase I: Especificação:
+    - Planejamento Inicial: Estabelecer cronograma, recursos necessários e alocação da equipe para as diferentes tarefas.
 
-- **Planejamento Inicial**:
-  - Estabelecer cronograma, recursos necessários e alocação da equipe para as diferentes tarefas.
-
-- **Criação das Personas**:
-  - Identificação dos principais usuários do aplicativo, focando no ambiente hospitalar.
+    - Criação das Personas: Identificação dos principais usuários do aplicativo, focando no ambiente hospitalar.
   - Desenvolvimento de personas para Médicos e Pacientes, considerando suas necessidades e expectativas no uso do aplicativo de telemedicina.
   
 - **Definição dos Requisitos**:
@@ -183,9 +180,6 @@ ___
 - **Resultado Esperado**:
   - Documento de Especificação de Requisitos detalhado, contendo as personas e uma lista priorizada das funcionalidades.
   
-
-    - Requisitos do projeto: Definir funcionalidades (agendamento, envio de exames, prontuário, fila de atendimento, gerenciamento de horários).
-    - Planejamento inicial: Estabelecer cronograma, recursos e equipe.
       
 - Fase II: Inspeção:
     - Revisão dos artefatos: Avaliar e validar requisitos e planejamento inicial.
