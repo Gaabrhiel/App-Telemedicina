@@ -76,10 +76,10 @@ Esse documento apresenta as personas do trabalho.
 **Adalberto Braga, 48 anos.**
 
 ### Quem ?
-- **Q1** Ocupação: Clínico geral (Médico) e influencer; 
-- **Q2** Nível de escolaridade: Doutorado completo, pós-graduação completa; 
-- **Q3** Como ele se descreve: Calvo, cabelos brancos, baixo, gordo;
-- **Q4** Quais os medos/preocupações/frustrações dele ? Por quê ?: Medo de perder a família, por questões pessoais;
+- **Ocupação:** Clínico geral (Médico) e influencer; 
+- **Nível de escolaridade:** Doutorado completo, pós-graduação completa; 
+- **Como ele se descreve:** Calvo, cabelos brancos, baixo, gordo;
+- **Quais os medos/preocupações/frustrações dele ? Por quê ?:** Medo de perder a família, por questões pessoais;
 
 ### Contexto
 - **C1** Quais tarefas da sua rotina ele realiza utilizando aplicações (web, mobile, desktop)?: Utiliza TikTok e Instagram para criar conteúdo sobre medicina;
