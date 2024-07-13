@@ -169,16 +169,12 @@ ___
 -	Fase I: Especificação:
     - Planejamento Inicial: Estabelecer cronograma, recursos necessários e alocação da equipe para as diferentes tarefas.
 
-    - Criação das Personas: Identificação dos principais usuários do aplicativo, focando no ambiente hospitalar.
-  - Desenvolvimento de personas para Médicos e Pacientes, considerando suas necessidades e expectativas no uso do aplicativo de telemedicina.
+    - Criação das Personas: Identificação dos principais usuários do aplicativo, focando no ambiente hospitalar, como Médicos e Pacientes, considerando suas necessidades e expectativas no uso do aplicativo de telemedicina.
   
-- **Definição dos Requisitos**:
-  - Realização de reuniões com a equipe para levantar as funcionalidades essenciais.
-  - Detalhamento das funcionalidades principais como agendamento de consultas, envio de exames, acesso a prontuários, fila de atendimento, e gerenciamento de horários.
-  - Priorização dos requisitos com base no objetivo principal: facilitar a consulta e exames como necessidades fundamentais dos pacientes.
+    - Definição dos Requisitos: Realização de reuniões com a equipe para levantar as funcionalidades essenciais, detalhamento das funcionalidades principais como agendamento de consultas, envio de exames, acesso a prontuários, fila de atendimento, e gerenciamento de horários.
+    - Priorização dos requisitos com base no objetivo principal: facilitar a consulta e exames como necessidades fundamentais dos pacientes.
 
-- **Resultado Esperado**:
-  - Documento de Especificação de Requisitos detalhado, contendo as personas e uma lista priorizada das funcionalidades.
+    - Resultado Esperado: Documento de Especificação de Requisitos detalhado, contendo as personas e uma lista priorizada das funcionalidades.
   
       
 - Fase II: Inspeção:
