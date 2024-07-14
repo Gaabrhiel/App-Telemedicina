@@ -33,7 +33,7 @@
    - **H10**: Como paciente, eu quero receber lembretes de minhas consultas para não esquecer meus compromissos.
 
 **Pagamento de Consultas Online**
-   - **H11**: Como paciente, eu quero pagar minhas consultas online para maior conveniência.
+   - **H11**: Como paciente, eu quero pagar minhas consultas online.
 
 **Feedback de Atendimento**
    - **H12**: Como paciente, eu quero deixar feedback sobre meu atendimento para ajudar a melhorar o serviço.
