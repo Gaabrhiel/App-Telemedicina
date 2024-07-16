@@ -2,4 +2,4 @@
 
 ## Diagrama de Sequencia
 
-![Diagrama](diagramas-dinamicos/Diagrama de seguencia.drawio.png)
+![Diagrama](diagrama-de-sequencias.png)
