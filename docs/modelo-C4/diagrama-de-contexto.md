@@ -2,4 +2,4 @@
 
 ## Diagrama de Contexto
 
-![Diagrama](/assets/images/tux.png)
+![Diagrama](diagrama-de-contexto.png)
