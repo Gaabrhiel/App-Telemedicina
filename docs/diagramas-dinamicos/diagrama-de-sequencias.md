@@ -1,5 +1,5 @@
 # Diagramas
 
-## Diagrama de Sequencia
+## Diagrama de Sequencias
 
 ![Diagrama](diagrama-de-sequencias.png)
