@@ -3,7 +3,7 @@ ___
 
 | Nome do Projeto:|  MediPortal App   |
 |-----------------|-------------------|
-| Versão:         | 1.0               |
+| Versão:         | 2.2               |
 | Status:         |Em andamento       |
 |Executor Principal:| Gabriel Batista |
 |Coordenador do Projeto:| Andrey Rodrigues|
@@ -22,6 +22,10 @@ ___
 |1.6   |Características Inovadoras| Gabriel, Kaic, Luanny, Fran e Rebeca | 04/06 |
 |1.7   |Implementação de GitHub| Fran Robson | 09/06 |
 |1.8   |Revisão Geral| Gabriel, Luanny, Fran, Kaic e Rebeca | 10/06 |
+|1.9   |Criamento de personas e user story|Gabriel, Luanny, Fran, Kaic e Rebeca| 17/06|
+|2.0   |Inspeção dos requisitos| Gabriel, Luanny, Fran, Kaic e Rebeca | 03/07|
+|2.1   |Elaboração dos diagramas e modelo C4| Gabriel, Luanny, Fran, Kaic e Rebeca| 16/07|
+|2.2   |Criação das issues no GitHub|Luanny, Fran| 16/07|
 ___
 
 ## ÍNDICE
@@ -120,8 +124,6 @@ acompanhamento.
 |-----------------------------|--------------------------------|
 | Tipo                        | Modelo e Especificações        |
 | GitHub (repositório remoto) | Modelo: Plataforma de hospedagem de código-fonte baseada em Git. Especificações: Oferece controle de versão, rastreamento de problemas e colaboração para projetos de software. |                               
-|VS Code(linguagens de programação)|Modelo: Editor de código leve e altamente personalizável. Especificações: Suporta diversas linguagens de programação, oferece recursos avançados como depuração e integração com sistemas de controle de versão.|
-| Android Studio(desenvolver para a plataforma Android)|Modelo: IDE oficial para desenvolvimento de aplicativos Android. Especificações: Permite criar, depurar e testar apps para Android, com suporte para Java e Kotlin. |
 | Canva (logo) |Modelo: Ferramenta online de design gráfico. Especificações: Facilita a criação de logotipos e outros materiais visuais, oferecendo modelos e elementos gráficos variados. |
 | Figma (prototipagem) |Modelo: Ferramenta de design de interface do usuário baseada na nuvem. Especificações: Permite criar protótipos interativos e designs responsivos, com recursos de colaboração em tempo real e integração com outras ferramentas de design e desenvolvimento. |
 
@@ -129,7 +131,6 @@ acompanhamento.
 
 ### 2.4. Características Inovadoras do Projeto:
 
-- Integração com Inteligência Artificial para Diagnósticos Preliminares: Utilização de IA para análise de sintomas e recomendação de cuidados iniciais;
 - Monitoramento Remoto em Tempo Real: Ferramentas para acompanhamento contínuo de sinais vitais dos pacientes, com alertas automáticos para os médicos;
 - Interface de Usuário Intuitiva e Responsiva: Design focado na experiência do usuário, adaptável a diversos dispositivos (smartphones, tablets e desktops);
 - Segurança Avançada de Dados: Implementação de criptografia ponta a ponta e autenticação multifatorial para proteger informações médicas sensíveis;
@@ -176,7 +177,6 @@ ___
 
     - Resultado Esperado: Documento de Especificação de Requisitos detalhado, contendo as personas e uma lista priorizada das funcionalidades.
   
-      
 - Fase II: Inspeção:
     - Revisão dos artefatos: Avaliar e validar requisitos e planejamento inicial.
       
@@ -201,9 +201,9 @@ ___
 |--------|-------|--------------|
 | I.	Especificação | Junho  | Especificação de Requisitos  |
 | II.	Inspeção     | Julho  | Avaliar e validar requisitos |
-| III.	Projeto e Arquitetura |        |              |
-| IV.	Prototipagem e Refinamento |        |          |
-| V.	Encerramento  |        |              |
+| III.	Projeto e Arquitetura |    Julho  | Elaborar os diagramas |
+| IV.	Prototipagem e Refinamento |   Julho     | Crição do protótipo e testes de usabilidade|
+| V.	Encerramento  |  Junho      |              |
 
 
 4. REFERÊNCIAS
