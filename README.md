@@ -6,7 +6,7 @@ ___
 | Versão:         | 1.0               |
 | Status:         |Em andamento       |
 |Executor Principal:| Gabriel Batista |
-|Coordenador do Projeto:| Andrey Rodrigues|
+|Coordenador do Projeto:| Christophe Xavier|
 
 
 ## HISTÓRICO DE VERSÕES
